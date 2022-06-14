@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Blind",
+        "type": "Negative"
+    },
+    {
+        "name": "Burden",
+        "type": "Negative"
+    },
+    {
+        "name": "Cure Blight Disease",
+        "type": "Positive"
+    },
+    {
+        "name": "Cure Common Disease",
+        "type": "Positive"
+    },
+    {
+        "name": "Cure Paralyzation",
+        "type": "Positive"
+    },
+    {
+        "name": "Cure Poison",
+        "type": "Positive"
+    },
+    {
+        "name": "Damage Fatigue",
+        "type": "Negative"
+    },
+    {
+        "name": "Damage Health",
+        "type": "Negative"
+    },
+    {
+        "name": "Damage Intelligence",
+        "type": "Negative"
+    },
+    {
+        "name": "Damage Magicka",
+        "type": "Negative"
+    },
+    {
+        "name": "Detect Animal",
+        "type": "Positive"
+    },
+    {
+        "name": "Detect Enchantment",
+        "type": "Positive"
+    },
+    {
+        "name": "Detect Key",
+        "type": "Positive"
+    },
+    {
+        "name": "Dispel",
+        "type": "Neutral"
+    },
+    {
+        "name": "Drain Alteration",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Agility",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Endurance",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Fatigue",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Health",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Intelligence",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Luck",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Magicka",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Personality",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Speed",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Strength",
+        "type": "Negative"
+    },
+    {
+        "name": "Drain Willpower",
+        "type": "Negative"
+    },
+    {
+        "name": "Feather",
+        "type": "Positive"
+    },
+    {
+        "name": "Fire Shield",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Agility",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Attack",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Endurance",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Fatigue",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Health",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Intelligence",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Luck",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Magicka",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Maximum Magicka",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Personality",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Speed",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Strength",
+        "type": "Positive"
+    },
+    {
+        "name": "Fortify Willpower",
+        "type": "Positive"
+    },
+    {
+        "name": "Frost Damage",
+        "type": "Negative"
+    },
+    {
+        "name": "Frost Shield",
+        "type": "Positive"
+    },
+    {
+        "name": "Invisibility",
+        "type": "Positive"
+    },
+    {
+        "name": "Levitate",
+        "type": "Positive"
+    },
+    {
+        "name": "Light",
+        "type": "Positive"
+    },
+    {
+        "name": "Lightning Shield",
+        "type": "Positive"
+    },
+    {
+        "name": "Night Eye",
+        "type": "Positive"
+    },
+    {
+        "name": "Paralyze",
+        "type": "Negative"
+    },
+    {
+        "name": "Poison",
+        "type": "Negative"
+    },
+    {
+        "name": "Recall",
+        "type": "Positive"
+    },
+    {
+        "name": "Reflect",
+        "type": "Positive"
+    },
+    {
+        "name": "Resist Common Disease",
+        "type": "Positive"
+    },
+    {
+        "name": "Resist Fire",
+        "type": "Positive"
+    },
+    {
+        "name": "Resist Frost",
+        "type": "Positive"
+    },
+    {
+        "name": "Resist Magicka",
+        "type": "Positive"
+    },
+    {
+        "name": "Resist Paralysis",
+        "type": "Positive"
+    },
+    {
+        "name": "Resist Poison",
+        "type": "Positive"
+    },
+    {
+        "name": "Resist Shock",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Agility",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Endurance",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Fatigue",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Health",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Intelligence",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Luck",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Magicka",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Personality",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Speed",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Strength",
+        "type": "Positive"
+    },
+    {
+        "name": "Restore Willpower",
+        "type": "Positive"
+    },
+    {
+        "name": "Spell Absorption",
+        "type": "Positive"
+    },
+    {
+        "name": "Swift Swim",
+        "type": "Positive"
+    },
+    {
+        "name": "Telekinesis",
+        "type": "Positive"
+    },
+    {
+        "name": "Vampirism",
+        "type": "Negative"
+    },
+    {
+        "name": "Water Breathing",
+        "type": "Positive"
+    },
+    {
+        "name": "Water Walking",
+        "type": "Positive"
+    },
+    {
+        "name": "Weakness to Fire",
+        "type": "Negative"
+    },
+    {
+        "name": "Weakness to Poison",
+        "type": "Negative"
+    }
+]
